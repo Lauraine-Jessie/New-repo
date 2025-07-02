@@ -1,2 +1,2 @@
 # New-repo
-A new repository
+A new repository by Lauraine
